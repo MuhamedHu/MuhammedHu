@@ -44,9 +44,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )]([https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc](https://www.linkedin.com/in/mohamed-hussein-88a519182/))
 [![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codepen.io/amrsayed74](https://codepen.io/MuhamedHu))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01005074554)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/amr.sayed74/](https://www.instagram.com/muhamed_hu02/))
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01027852625)
 
 <!-- ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
